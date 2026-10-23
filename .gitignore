@@ -1,0 +1,27 @@
+# Private or sensitive data
+*.xlsx
+*.xls
+*.csv
+*.sav
+*.por
+*.pbix
+*.accdb
+*.db
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary/export files
+*.tmp
+*.bak
+~$*
